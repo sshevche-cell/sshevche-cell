@@ -30,7 +30,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" alt="anaconda" width="50" height="50"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" width="50" height="50"/> </a>
-<a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://www3.technologyevaluation.com/getattachment/9b7c8017-6430-5cf6-9a92-543c152dcacf/logo.png?source=tw2&ext=.png" alt="stata" width="50" height="60"/> </a>
+<a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1398221877e949cac326c4ec0f2e6a77/stata.jpg" alt="stata" width="50" height="50"/> </a>
 <a href="https://www.ibm.com/products/spss-statistics/gradpack?adoper=227628_2&utm_content=SRCWW&p1=Search&p4=43700050436737340&p5=e&p9=58700005519276965&gclid=Cj0KCQjwsPCyBhD4ARIsAPaaRf36UCObRLvd4gKW071B-wl_4tc86x5Qz4SCObqwsbSiLu_1OjNHX3UaAoJ9EALw_wcB&gclsrc=aw.ds&adobe_mc_sdid=SDID%3D64A72431AFD84A55-6B2EB92BCCD10A5D%7CMCORGID%3DD10F27705ED7F5130A495C99%40AdobeOrg%7CTS%3D1717358942&adobe_mc_ref=https%3A%2F%2Fwww.google.com%2F" target="_blank" rel="noreferrer"> <img src="https://alternative.me/media/256/ibm-spss-statistics-icon-qucivcgj90p3tsej-c.png" alt="ibmspss" width="50" height="50"/> </a>
 </p>
 
