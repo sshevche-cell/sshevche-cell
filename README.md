@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshevche-cell&label=Profile%20views&color=0e75b6&style=flat" alt="sshevche-cell" /> </p>
 
-- 🔭 I’m currently working as a Research Assistant (Quantitative) within the "Higher Education Access, Leadership and Equity Research Group" under the Undergraduate Research Opportunities Program (UROP) at the Wheelock College of Education & Human Development at Boston University. [This](https://insookang.shinyapps.io/Gordan_Marshall_Project/) is the project I am collaborating on with [Insoo Kang](https://www.linkedin.com/in/kang-insoo/).
+- 🔭 At Boston University, I’m currently working as a Research Assistant (Quantitative) within the "Higher Education Access, Leadership and Equity Research Group" under the Undergraduate Research Opportunities Program (UROP) at the Wheelock College of Education & Human Development. [This](https://insookang.shinyapps.io/Gordan_Marshall_Project/) is the project I am collaborating on with [Insoo Kang](https://www.linkedin.com/in/kang-insoo/).
 
-- 👨‍💻 A personal project I am working on right now is a stock application 📈 using Python and Flask. 
+- 👨‍💻 A personal project I am working on right now to further improve my skillset is a financial data application 📈 using Python and Flask. 
 
 - 📫 How to reach me **sshevche5@gmail.com**
 
