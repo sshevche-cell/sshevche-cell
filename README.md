@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sshevche5@gmail.com**
 
-- ⚡ Fun fact **I can speak four languages fluently + fluency in the 💻 ones below!**
+- ⚡ Fun fact -> **I can speak four languages fluently + fluency in the 💻 ones below!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
