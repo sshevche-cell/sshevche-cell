@@ -5,7 +5,7 @@
 
 - 🔭 At Boston University I’m working as a Research Assistant (Quantitative) within the "Higher Education Access, Leadership and Equity Research Group" under the Undergraduate Research Opportunities Program (UROP) at the Wheelock College of Education & Human Development. [This](https://insookang.shinyapps.io/Gordan_Marshall_Project/) is the project I am collaborating on with [Insoo Kang](https://www.linkedin.com/in/kang-insoo/).
 
-- 👨‍💻 A personal project I am working on right now to further improve my skillset is a financial data application 📈 using Python and Flask. 
+- 👨‍💻 A personal project I am working on right now is an options' analysis web-app.
 
 - 📫 How to reach me **sshevche5@gmail.com**
 
