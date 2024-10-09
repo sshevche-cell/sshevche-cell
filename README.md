@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **sshevche5@gmail.com**
 
-- ⚡ Fun fact -> **I can speak four languages fluently + fluency in the 💻 ones below!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sviatoslav-shevchenko-a125b5234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sviatoslav-shevchenko-a125b5234/" height="30" width="40" /></a>
