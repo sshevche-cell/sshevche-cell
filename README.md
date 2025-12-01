@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sviatoslav (Sviat) Shevchenko</h1>
-<h3 align="center">A junior at Boston University pursuing a dual degree in Data Science and Economics.</h3>
+<h3 align="center">A senior at Boston University pursuing a dual degree in Data Science and Economics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshevche-cell&label=Profile%20views&color=0e75b6&style=flat" alt="sshevche-cell" /> </p>
 
